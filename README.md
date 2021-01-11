@@ -1,6 +1,6 @@
 # ruby-noob-blog
 
-##Ruby by a noob!
+## Ruby by a noob!
 
 `Puts “Hello world!”`
 
